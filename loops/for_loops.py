@@ -67,9 +67,15 @@
 #     print(num)
 
 # EX 10
-x = 0
-for num in range(0 , 101):
-    x += num
+# x = 0
+# for num in range(0 , 101):
+#     x += num
     
-print(x)
-print(sum(range(1,100)))
+# print(x)
+# print(sum(range(1,100)))
+
+
+friends = ["Rolf" , "Jen" , "Bob" , "Anne"]
+for friend in friends:
+    
+
